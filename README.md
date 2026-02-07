@@ -18,6 +18,3 @@ This project showcases a clean profile layout with a header section, stat cards,
 - Vite
 - JavaScript (ES6+)
 - CSS3 (Flexbox & Grid)
-
-## 📂 Project Structure
-src/ ├── assets/ │   └── profile.jpg ├── components/ │   ├── TopHeader.jsx │   ├── StatCard.jsx │   ├── ProfilePage.jsx │   ├── PersonalInfoCard.jsx │   ├── AccountDetailsCard.jsx │   └── Row.jsx ├── App.jsx ├── App.css └── main.jsx
